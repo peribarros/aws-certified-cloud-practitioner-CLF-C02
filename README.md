@@ -2,7 +2,7 @@ Albert Einstein disse que "se você não consegue explicar algo a uma criança d
 
 
 
-| Categoria | Nome do serviço | Explicação simples | Definição técnica
+| Categoria | Nome do serviço | Explicando para uma criança | Definição técnica
 | --- | --- |  --- | --- | 
-| git status | List all new or modified files |
+| Tecnologias e conceitos | APIs | APIs são como mensageiros entre programas de computador, que ajudam eles a falar e trabalhar juntos. | Interfaces de programação que permitem a integração e manipulação de recursos na nuvem AWS. |
 | git diff | Show file differences that haven't been staged |
